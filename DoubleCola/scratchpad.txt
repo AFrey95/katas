@@ -1,0 +1,38 @@
+0 "Sheldon", "Leonard", "Penny", "Rajesh", "Howard"
+1 Sheldon, Sheldon, Leonard, Leonard, Penny, Penny, Rajesh, Rajesh, Howard, Howard
+2 S S S S, L L L L, P P P P, R R R R, H H H H 
+3 S S S S S S S, L L L L L L L, P P P P P P P P, R R R R R R R R, H H H H H H H H
+                                  ^
+                                  n = 51
+
+Brute force: Iterate the whole thing and count it out. Array might get too big.
+
+
+Smart way:
+
+Observation: For each round "r", we add 5*2^r turns/names/drinks.
+r=0 => 5*1 drinks, r=1 => 5*1 + 5*2 drinks, r=2 => 5*1 + 5*2 + 5*4 drinks, etc
+
+Observation: if we know the round number, we can generate the line; each drinker will be in line 2^r times.
+
+With these to observations we can quickly find drinker n thusly:
+First we must find the round which contains the nth drink. To do this, suppose we have a number "s" which
+represents the starting number of a row. If we can find the maximum value of s < n, we can deduce the round which
+contains the nth drink by analyzing the last power of 2 in the sum. We can find s (the last drinker in the 
+previous line) iteratively:
+
+r = 0: s = 5*2^0 = 5
+r = 1: s = 5*2^0 + 5*2^1 = 15
+r = 2: s = 5*2^0 + 5*2^1 + 5*2^2 = 35
+r = 3: s = 5*2^0 + 5*2^1 + 5*2^2 + 5*2^3 = 75 > (n = 51)
+
+So the maximum value of r is 2, giving us a value of s = 35
+
+Now we can generate our next line, with each drinker in line 2^(r+1) = 2^3 = 8 times:
+
+SSSSSSSSLLLLLLLLPPPPPPPPRRRRRRRRHHHHHHHH
+
+Now we simply count up n-s spaces, or 51-35 = 16 + 1 spaces, starting on the next line
+
+SSSSSSSSLLLLLLLLPPPPPPPPRRRRRRRRHHHHHHHH
+0^^^^^^^^^^^^^^^^^

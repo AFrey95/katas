@@ -1,0 +1,13 @@
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.csprojAssemblyReference.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.AssemblyInfoInputs.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.AssemblyInfo.cs
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.exe
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.deps.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.runtimeconfig.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.runtimeconfig.dev.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.dll
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.pdb
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.dll
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.pdb
+C:\Users\andrew.frey\Documents\PROJECTS\katas\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.genruntimeconfig.cache

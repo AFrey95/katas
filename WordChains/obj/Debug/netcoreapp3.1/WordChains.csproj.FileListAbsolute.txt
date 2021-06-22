@@ -1,0 +1,13 @@
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\obj\Debug\netcoreapp3.1\WordChains.csprojAssemblyReference.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\obj\Debug\netcoreapp3.1\WordChains.AssemblyInfoInputs.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\obj\Debug\netcoreapp3.1\WordChains.AssemblyInfo.cs
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\obj\Debug\netcoreapp3.1\WordChains.csproj.CoreCompileInputs.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\bin\Debug\netcoreapp3.1\WordChains.exe
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\bin\Debug\netcoreapp3.1\WordChains.deps.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\bin\Debug\netcoreapp3.1\WordChains.runtimeconfig.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\bin\Debug\netcoreapp3.1\WordChains.runtimeconfig.dev.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\bin\Debug\netcoreapp3.1\WordChains.dll
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\bin\Debug\netcoreapp3.1\WordChains.pdb
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\obj\Debug\netcoreapp3.1\WordChains.dll
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\obj\Debug\netcoreapp3.1\WordChains.pdb
+C:\Users\andrew.frey\Documents\PROJECTS\katas\WordChains\obj\Debug\netcoreapp3.1\WordChains.genruntimeconfig.cache

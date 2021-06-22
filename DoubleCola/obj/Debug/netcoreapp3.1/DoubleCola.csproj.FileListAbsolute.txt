@@ -1,0 +1,13 @@
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.exe
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.deps.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.runtimeconfig.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.runtimeconfig.dev.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.dll
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.pdb
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.csprojAssemblyReference.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.AssemblyInfoInputs.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.AssemblyInfo.cs
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.csproj.CoreCompileInputs.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.dll
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.pdb
+C:\Users\andrew.frey\Documents\PROJECTS\katas\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.genruntimeconfig.cache

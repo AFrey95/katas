@@ -1,0 +1,13 @@
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\obj\Debug\netcoreapp3.1\BinSearchFiveWays.csprojAssemblyReference.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\obj\Debug\netcoreapp3.1\BinSearchFiveWays.AssemblyInfoInputs.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\obj\Debug\netcoreapp3.1\BinSearchFiveWays.AssemblyInfo.cs
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\obj\Debug\netcoreapp3.1\BinSearchFiveWays.csproj.CoreCompileInputs.cache
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\bin\Debug\netcoreapp3.1\BinSearchFiveWays.exe
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\bin\Debug\netcoreapp3.1\BinSearchFiveWays.deps.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\bin\Debug\netcoreapp3.1\BinSearchFiveWays.runtimeconfig.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\bin\Debug\netcoreapp3.1\BinSearchFiveWays.runtimeconfig.dev.json
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\bin\Debug\netcoreapp3.1\BinSearchFiveWays.dll
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\bin\Debug\netcoreapp3.1\BinSearchFiveWays.pdb
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\obj\Debug\netcoreapp3.1\BinSearchFiveWays.dll
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\obj\Debug\netcoreapp3.1\BinSearchFiveWays.pdb
+C:\Users\andrew.frey\Documents\PROJECTS\katas\BinSearchFiveWays\obj\Debug\netcoreapp3.1\BinSearchFiveWays.genruntimeconfig.cache
